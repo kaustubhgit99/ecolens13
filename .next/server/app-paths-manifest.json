@@ -1,0 +1,10 @@
+{
+  "/api/transcribe/route": "app/api/transcribe/route.js",
+  "/api/analyze-complaint/route": "app/api/analyze-complaint/route.js",
+  "/api/ai-moderation/route": "app/api/ai-moderation/route.js",
+  "/login/page": "app/login/page.js",
+  "/citizen/dashboard/page": "app/citizen/dashboard/page.js",
+  "/citizen/report/page": "app/citizen/report/page.js",
+  "/citizen/map/page": "app/citizen/map/page.js",
+  "/citizen/coins/page": "app/citizen/coins/page.js"
+}
